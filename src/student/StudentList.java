@@ -10,7 +10,7 @@ package student;
  */
 public class StudentList {
     public static void main(String[] args) {
- Student2[] studentList = new Student2[4];
+ Student2[] studentList = new Student2[3];
  studentList[0] = new Student2("s1", "Michael Sanghera");
  studentList[1] = new Student2("s2", "John Doe");
  studentList[2] = new Student2("s3", "Jane Doe");
