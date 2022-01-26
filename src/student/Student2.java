@@ -11,6 +11,8 @@ package student;
 public class Student2 {
     private String studentId;
     private String studentName;
+    private String address;
+    
     
     public Student2(String studentId,String studentName) {
         this.studentId= studentId;
@@ -33,5 +35,11 @@ public class Student2 {
     public void setStudentName(String studentName) {
         this.studentName = studentName;
     }
-    
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String studentName) {
+        this.address = address;
+}
 }
