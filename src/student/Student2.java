@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package student;
 
 /**
- *
- * @author HP
+ *Jan 26,2022
+ * @author Michael Sanghera
  */
 public class Student2 {
     private String studentId;
