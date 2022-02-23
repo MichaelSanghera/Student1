@@ -17,7 +17,7 @@ public class StudentList {
  
  for(int i =0; i < studentList.length;i++){
     System.out.print(studentList[i].getStudentId());
-    System.out.print(" ");
+    System.out.print(" hit");
     System.out.println(studentList[i].getStudentName());
 }
   
